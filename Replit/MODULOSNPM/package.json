@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon nodemon.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
